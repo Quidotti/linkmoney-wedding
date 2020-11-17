@@ -45,9 +45,8 @@ require("includes/header.php");
 	<!-- Start Banner -->
 	<div class="home-slider">
 		<ul class="rslides">
-			<li><img src="imgs/wedding1.jpg" alt=""></li>
-			<li><img src="images/slider-01.jpg" alt=""></li>
-			<li><img src="images/slider-02.jpg" alt=""></li>
+			<li><img src="images/moremoney.jpg" style="height:700px; width:600px;" alt=""></li>
+			<li><img src="images/mr-mrs-odey.jpg" style="height:650px; background-size:cover; width:1200px; margin-left:60px;" alt=""></li>
 			<li><img src="imgs/odey-bobzee-wedding-pex-1.jpg.jpg" alt=""></li>
 		</ul>
 		<div class="lbox-details">
@@ -84,7 +83,7 @@ require("includes/header.php");
 							<div class="col-lg-4 col-md-6 col-sm-12">
 								<div class="about-m">
 									<div class="about-img">
-										<img class="img-fluid" src="imgs/bobagain.jpg" alt="" />
+										<img class="img-fluid" src="images/ohotuyu.jpg" alt="" />
 									</div>
 									<ul>
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -102,7 +101,7 @@ require("includes/header.php");
 							<div class="col-lg-4 col-md-6 col-sm-12">
 								<div class="about-m">
 									<div class="about-img">
-										<img class="img-fluid" src="imgs/bob.jpg" alt="" />
+										<img class="img-fluid" src="images/linkmoney.jpg" alt="" />
 									</div>
 									<ul>
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -148,7 +147,7 @@ require("includes/header.php");
 								<span>2020</span>
 							</div>
 							<div class="image">
-								<img src="imgs/firstmeet.jpg" alt="" />
+								<img src="images/Abouto.jpg" style="width:300px; height:2000px" alt="" />
 								<div class="title">
 									<h2>First Meet <i class="fa fa-angle-right" aria-hidden="true"></i></h2>
 								</div>
@@ -166,7 +165,7 @@ require("includes/header.php");
 								<span>2020</span>
 							</div>
 							<div class="image">
-								<img src="imgs/firstdate.jpg" alt="" />
+								<img src="images/faithlinks.jpg" style="width:400px;" alt="" />
 								<div class="title">
 									<h2>First date <i class="fa fa-angle-right" aria-hidden="true"></i></h2>
 								</div>
@@ -184,7 +183,7 @@ require("includes/header.php");
 								<span>2020</span>
 							</div>
 							<div class="image">
-								<img src="images/time-03.jpg" alt="" />
+								<img src="images/faithohotu.jpg" style="width:300px;" alt="" />
 								<div class="title">
 									<h2>Proposal <i class="fa fa-angle-right" aria-hidden="true"></i></h2>
 								</div>
@@ -202,7 +201,7 @@ require("includes/header.php");
 								<span>2017</span>
 							</div>
 							<div class="image">
-								<img src="images/time-04.jpg" alt="" />
+								<img src="images/moremoney.jpg" style="width:300px;" alt="" />
 								<div class="title">
 									<h2>Engagement <i class="fa fa-angle-right" aria-hidden="true"></i></h2>
 								</div>

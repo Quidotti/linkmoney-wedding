@@ -18,6 +18,7 @@ if (isset($_POST['submit'])) {
         . $name . ".\n\n" . $event . $guest . $message;
     // recived message function
     mail($myMail, $header, $message2);
+
     header("Location: index.php?mailsentsuccessful");
     if (mail($myMail, $header, $message2)) {
         echo "Sent sucessfuly to " . $myMail;   // on TRUE
